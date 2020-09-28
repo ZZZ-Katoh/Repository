@@ -1,8 +1,0 @@
-Copy zbarcam_PS.bat and  zbarcam_PS.ps1 to same folder.
-Connect a webcam to PC.(if needed).
-Run zbarcam_PS.bat.
-
-
-It is better that the camera supports close-up photography.
-(Some webcams can be adjusted for close-up photography by turning the lens anticlockwise.)
-
